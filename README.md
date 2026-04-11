@@ -51,13 +51,11 @@ Computer Engineering student with a strong interest and growing experience in AI
 - 📚 Continuously improving in **clean code**, **software architecture**, and best practices  
 - 🤝 Open to **collaborations**, **open-source contributions**, and **internship opportunities**
 
-<!--
 ---
 
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aswan-A&show_icons=true&theme=tokyonight" alt="Aswan's GitHub stats" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aswan-A&layout=compact&theme=tokyonight" alt="Top Languages" width="330"/>
-</p> 
--->
+  <img src="./profile/stats.svg" alt="Aswan's GitHub stats" width="400"/>
+  <img src="./profile/top-langs.svg" alt="Top Languages" width="330"/>
+</p>
